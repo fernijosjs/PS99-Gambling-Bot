@@ -25,27 +25,27 @@ Config = {
     "Mines" : { # Config for mines
         "House" : 0.1,  # The Multiplier Will Be Multiplied by 1.00 - This
     },
-    "Logs": 1200137132593926184, # log channel
+    "Logs": 1316506827655217273, # log channel
     "Crash" : { # Config for crash
         "InstaCrashChance" : 10,  # Chance That It Will Crash at 1.00x
         "CrashChance" : 2,  # The Lower This Number Is The Higher Your Multipliers Will Average, I find 2 is the best
-        "ChannelID" : "1200138115902353589"  # Id of the channel crash games will be in
+        "ChannelID" : "1316506961327685705"  # Id of the channel crash games will be in
     },
     "Coinflip" : { # Config for coinflip
-        "1v1" : "1200137132593926184",  # Channel That Coinflips Be In
+        "1v1" : "1316507058467766303",  # Channel That Coinflips Be In
         "House": 3.5 # House Edge (%)
     },
     "Rains" : { # Config for rains
-        "Channel" : "1200137196766765221" # Set to the id the channel rains will be in
+        "Channel" : "1316507188461572096" # Set to the id the channel rains will be in
     },
     "AdminCommands" : {
-        "UserID" : ["1175461563554091009"] # if more than 1 do this: ["1st user id", "2nd user id"]
+        "UserID" : ["1193211092734849068"] # if more than 1 do this: ["1st user id", "2nd user id"]
     },
     "Upgrader": { # Config for upgrader
         "House": 0.95 # house edge (winnings*house)
     },
     "Rakeback" : 1, # Rakeback %
-    "Username": "blinxostock", # The Username Of The Account Running The Bot
+    "Username": "CREATE A TICKET TO DEPOSIT", # The Username Of The Account Running The Bot
     "DiscordBotToken": "MTIwMDEzODM0MTc1MzA0MDkwNg.GfNNEQ.W6ZCflzXBqOmY1AWwTStyLa7RCJnWiCSNmVo-Y" # The token of the discord bot
 }
 username = Config['Username']
